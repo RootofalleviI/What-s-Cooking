@@ -10,3 +10,6 @@ Soft-voting ensemble of logistic regression and SVC (1:2) => 80.7% accuracy
 - Numpy, Pandas
 - Plotly for visualization (I'm actually in love with plotly now)
 - Scikit-Learn for utility and ML algorithms
+
+#### View on Kaggle
+https://www.kaggle.com/rootofallevil/what-s-cooking
